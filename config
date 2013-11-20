@@ -4,3 +4,6 @@ APIKEY=''
 DOMAINDID=''
 RESOURCEID=''
 
+# OPTIONAL: URL to hit to grab external IP address
+EXTURL='http://ipv4.icanhazip.com'
+
