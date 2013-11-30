@@ -1,5 +1,7 @@
 # Example configuration file
 
+IPCACHEFILE=/tmp/.lidyndns-cache
+
 APIKEY=''
 DOMAINDID=''
 RESOURCEID=''
