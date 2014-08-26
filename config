@@ -7,7 +7,3 @@ DOMAINDID=''
 RESOURCEID=''
 
 API_ENDPOINT='api.linode.com'
-
-# OPTIONAL: URL to hit to grab external IP address
-EXTURL='http://ipv4.icanhazip.com'
-
